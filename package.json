@@ -4,8 +4,5 @@
   "version": "1.0.0",
   "engines": {
     "node": "14.x"
-  },
-  "scripts": {
-    "start": "./src/bin/run.sh"
   }
 }
